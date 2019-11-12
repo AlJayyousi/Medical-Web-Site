@@ -1,0 +1,720 @@
+body{
+	margin:0;
+	padding: 0;
+	overflow-x: hidden;
+	
+}
+
+
+nav{
+	background-color: #fff;
+	
+	background-color: white;
+	
+	position: fixed;
+	z-index: 1000;
+	width:90%;
+
+	padding:15px 120px;
+	
+
+
+
+}
+a{
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #282727;
+
+}
+
+
+#TopNavLink{
+	display: inline-block;
+	float: right;
+
+	font-size: 25px;
+
+}
+
+#TopNavLink img{
+	display:  inline-block;
+	width: 25px;
+	height: 25px;	
+	
+
+
+}
+#TopNavLink a{
+	margin-left: 22px;
+
+
+}
+#TopNavLink a:hover{
+	color: #354790;
+
+
+}
+
+#Logo img{
+	width: 120px;
+	height: 40px;
+
+}
+
+
+#TimelinePhot{
+	clear: both;
+
+	background-image: url(Doctor.jpg);
+	position: cover;
+	height: 600px;
+	padding: 100px 200px 0;
+}
+
+
+.lRBoX{
+	display: inline-block;
+
+	width: 21%;
+	padding:  5%;
+	text-align: left;
+	
+	float: left;
+	height: 300px;
+	border-radius:13px;
+	background-color:  #b9f7f9 ;
+	;
+}
+.MBoX{
+	float: left;
+	display: inline-block;
+	background-color: #d4fdfe ;
+	width: 21%;
+	padding: 5%;
+	position: relative;
+	top: -12px;
+
+	height: 324px;
+	
+	margin: 0;
+
+	border-radius:13px;
+}
+
+#BlueBoxes{
+	position: relative;
+	top: -130px;
+	margin-left:7%;
+	
+
+}
+.right{
+	
+	display: inline-block;
+	float: right;
+	width: 49%;
+}
+#left{
+	display: inline-block;
+	float: left;
+	width: 40%;
+}
+
+#Lft{
+
+	width: 100%;
+	background-color: #fff;
+
+}
+
+
+#wavet{
+	clear: both;
+	height: 700px;
+	padding: 75px;
+	background-image: url(waveblue.jpg);
+	text-align: center;
+	
+
+}
+
+#whhite{
+	padding: 20px 0;
+	background-color: #fff;
+	width:100%;
+	border-radius: 13px;
+
+}
+.Inwh{
+	width: 24%;
+	display: inline-block;
+	text-align: justify;
+	margin-left:4%;
+
+	
+
+	
+}
+
+.lRBoX label{
+	color: #0078aa;
+	font-size: 30px;
+
+
+}
+.MBoX label{
+	word-spacing: 5px;
+	margin-top: 40px;
+
+	margin-bottom: 0;
+	font-size: 18px;
+	font-weight: bold;
+	color: #363636;
+	
+
+}
+
+.MBoX p{
+	font-size: 14px;
+	line-height: 1.7;
+	
+
+}
+
+.lRBoX h2{
+	margin-top: 40px;
+
+	margin-bottom: 0;
+	font-size: 18px;
+	font-weight: bold;
+	color: #363636;
+	
+
+}
+.lRBoX p{
+	font-size: 14px;
+	line-height: 1.7;
+	margin-bottom: 0;
+	
+
+}
+
+.whiteButton {
+
+	display: block;
+	width: fit-content;
+	margin-top: 20px;
+	font-size: 14px;
+	border-radius: 45px;
+	padding: 25px 50px ;
+	background-color: #fff;
+	color: #363636;
+	border: 2px solid #fff;
+
+
+}
+.whiteButton:hover {
+	background-color:rgb(0,0,0,0); 
+	border: 2px solid #0078aa;
+
+
+}
+
+
+
+.iconSize{
+	margin-bottom: 20px;
+	width: 50px;
+	height: 50px;
+}
+.right{
+	width: 30%;
+
+	margin-right:27%;
+}
+
+.right label {
+	font-size: 50px;
+
+}
+
+ul{
+	list-style: none;
+}
+ul li h3 {
+	font-size: 25px;
+	border-radius: 6px;
+	padding: 25px 25px;
+	background-color: #3ce2ad;
+
+}
+
+li p {
+	padding-left: 25px;
+	
+}
+
+.right h6 {
+	color: #0078aa;
+	font-size: 12px;
+}
+
+#wavet label {
+	font-size: 36px;
+	font-weight: bolder;
+}
+
+
+#wavet p {
+	font-size: 12px;
+	margin-bottom: 40px;
+
+}
+.Inwh h2{
+	font-size: 18px;
+
+}
+#Timline2{
+	width: 100%;
+	height: 600px;
+
+}
+
+
+#TimelinePhot2{
+	width: 50%;
+	height: 600px;
+	float: right;
+	
+}
+
+#leftTimline2{
+	width: 30%;
+	padding-left: 40px;
+	display: inline-block;
+	margin-left: 15%;
+	margin-top: 7%;
+	
+	height: 100%;
+}
+#leftTimline2 label {
+	font-size: 50px;
+
+}
+
+#leftTimline2 h6 {
+	color: #0078aa;
+	font-size: 12px;
+	margin: 18px 0 50px;
+}
+
+#leftTimline2 p {
+
+	font-size: 14px;
+	color: #363636;
+	margin-bottom: 20%;
+}
+
+
+
+.blueButton{
+
+
+	background-color: #3ce2ad;
+	color:#fff;
+	font-size: 14px;
+	padding :17px 37px;
+
+	border:2px solid #3ce2ad;
+	border-radius: 45px;
+}
+
+.blueButton:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+
+#nnn{
+	margin:0-5px;
+	clear: both;
+
+	background-color: #f4f4f4;
+	width: 100%;
+	height: 350px;
+	text-align: center;
+
+
+}
+
+.Num{
+
+	display: inline-block;
+	
+
+	padding: 105px 105px;
+	height: 140px;
+	text-align: center;
+	
+	
+	
+}
+.Num label{
+	font-size: 50px;
+	font-weight: bolder;
+
+}
+
+
+.Num h6{
+	text-align: center;
+	
+	width: 32%;	
+	margin: 10px 34%;
+	
+
+	border-bottom: 2.5px solid #47c9e5;
+
+}
+.Num p {	
+	color: 	#505050;
+	font-size: 18px;
+	margin-top: 0px;
+	line-height: 30px;
+}
+.Num span {	
+	color: 	#505050;
+	font-size: 25px;
+	line-height: 30px;
+}
+
+
+#tools{
+	clear: both;
+
+	background-image: url(tools.jpg);
+	background-position: center;
+	
+	height: 850px;
+	padding-top: 150px;
+	text-align: center;
+}
+
+.lRBoX2{
+
+	display: inline-block;
+	background-color: blue;
+	width: 20%;
+	padding:  5%;
+	text-align: left;
+	
+	float: left;
+	height: 550px;
+	
+	background-color:  #d4fdfe ;
+	z-index: 0;
+	;
+}
+.MBoX2{
+	float: left;
+	display: inline-block;
+	background-color: rgba(0, 0, 0, 0) ;
+	width: 29%;
+	padding: 1%;
+	position: relative;
+	
+	padding-top: 100px;	
+	
+	top: -42px;
+
+	height: 654px;
+	z-index: +4;
+	margin-right:0;
+	box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.5), 0px 20px 20px 0 rgba(0, 0, 0, 0.3);
+
+	
+}
+
+
+#center{
+	margin-top: 127px;
+	text-align:	center;
+
+	margin-left: 10%;
+}
+
+#tools label {
+	float: left; 
+	width: 100%;
+	
+	text-align: center;
+	font-size: 36px;
+	font-weight: bolder;
+	
+	color: 	#3a3a3a;
+
+}
+
+
+#tools p {
+	color:#3a3a3a;
+
+	
+	width: 100%;
+	text-align: center;
+	font-size: 12px;
+	margin-bottom:15px;
+
+}
+
+
+#tools span {
+	color:#3a3a3a;
+	
+	line-height: 27px;
+	float: left;
+	width: 100%;
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 40px;
+
+}
+
+.GeTWhite{
+	width: fit-content;
+	margin-top: 60px;
+	font-size: 14px;
+	border-radius: 45px;
+	padding: 15px 30px ;
+	background-color: #fff;
+	color: #363636;
+	border: 2px solid #fff;
+
+}
+
+.GeTblue{
+	width: fit-content;
+	margin-top: 60px;
+	font-size: 14px;
+	border-radius: 45px;
+	padding: 15px 30px ;
+	background-color: #0078aa;
+	color: #fff;
+	border: 2px solid #0078aa;
+
+}
+
+.GeTWhite:hover {
+	width: fit-content;
+	margin-top: 60px;
+	font-size: 14px;
+	border-radius: 45px;
+	padding: 15px 30px ;
+	background-color: rgb(0,0,0,0);
+	color: #363636;
+	border: 2px solid #0078aa;
+
+}
+
+.GeTblue:hover{
+	width: fit-content;
+	margin-top: 60px;
+	font-size: 14px;
+	border-radius: 45px;
+	padding: 15px 30px ;
+	background-color: #fff;
+	color: #363636;
+	border: 2px solid #0078aa;
+
+}
+
+
+
+#nnnn{
+	height: 550px;
+	
+
+
+}
+
+.hOneP{
+
+	display: inline-block;
+	float: right;
+	width: 49%;
+	padding-right: 11%;;
+
+}
+
+.hOneP h3{
+	font-size: 12px;
+	color: #8d8d8d;
+	background-color: #f9f9f9;
+	height: 2px;
+	line-height: 2px;
+}
+.hOneP p{
+	font-size: 13px;
+	line-height: 20px;
+	color: #333;
+}
+
+#LhOneP{
+	clear: both;
+	float: left;
+	display: inline-block;
+	margin: 1% 120px;
+	width: 20%;
+	
+}
+#LhOneP label{
+	font-size: 36px;
+	color: #363636;
+	
+}
+#LhOneP span{
+
+	color: #363636	;
+	font-size: 36px;
+
+	
+}
+#mappp{
+	display: block;
+	margin-top: 170px;
+}
+.centerZ{
+	clear: both;
+	text-align: center;
+	width: 100%;
+	background-color: #f9f9f9;
+	padding: 100px 0 ;
+	
+	
+}
+.span3{
+	display: inline-block;
+	margin-left: 1%;
+
+	width:20%;
+	
+
+	
+}
+
+.span3 img{
+
+	float: left;
+	width: 40px;
+	height: 40px;
+	margin-right: 35px;
+}
+.span3 img:hover{
+
+	position: relative;
+	bottom: 5px;
+}
+.span3 h3{	
+	margin-top: 2px;
+	line-height: 18px;
+	float: left;
+	font-size: 18px;
+	
+	display: inline-block;
+}
+.span3 span{
+	float: left;
+
+	margin-top: -10px;
+}
+
+#cent{
+	clear: both;
+	
+	width: 100%;
+	height: 800px;
+	
+	padding: 200px 40px;
+
+}
+
+.Cspan3{
+	color:#fff;
+
+
+
+}
+.Cspan3 img{
+	color:#fff;
+	padding-left: 75px;
+
+}
+
+.Cspan3 div{
+	float: left;
+	display: inline-block;
+	margin-left: 20px;
+	background-image: url(box.jpg);
+	padding-top: 250px;
+	
+	background-size: cover;
+	height: 350px;
+	width: 18%;
+
+
+}
+
+
+.span6{
+	width: 46%;
+	float: right;
+	height: 800px
+	background-color:#fff;
+
+}
+
+.span6 h2 {
+	font-size: 30px;
+}
+
+.span6 h5 {
+	line-height: 0;
+	font-size: 12px;
+	color: #11cbd7;
+}
+
+.span6 input {
+	padding-top: 20px;
+	height: 40px;
+	font-size: 14px;
+	width: 500px;
+	border: none;
+}
+.span6 select {
+	padding-top: 20px;
+	height: 40px;
+	font-size: 14px;
+	width: 500px;
+	border: none;
+}
+
+.span6 hr{
+	width: 500px;
+	float: left;
+}
+
+.Fnfn a img:hover{
+	background-color: #1100ff;
+
+	border:2px solid #11cbff;
+
+}
+
+.Fnfn a img{
+
+	border:2px solid #f9f9f9;
+
+}
+
